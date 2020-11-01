@@ -19,9 +19,8 @@ const MainPage = () => {
   return (
     <>
       <HeaderNav />
-      <BackgroundPosition>
-        
-      </BackgroundPosition>
+      <BackgroundPosition />
+      
       <h1>메인페이지</h1>
     </>
   );
